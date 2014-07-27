@@ -60,7 +60,7 @@ Alternatively, you can include a timestamp to add more precision to your iCalBud
 
 # Screenshot
 
-![Screenshot of my geeklets in action](CXO-Desktop-2014-07-25.jpg)
+![Screenshot of my geeklets in action](/geeky/screenshot.jpg)
 
 
 
