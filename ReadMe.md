@@ -1,3 +1,9 @@
+# Archived
+
+This repository will no longer be updated. At some point I may remove the repository. I recommend looking at [Uebersicht](http://tracesof.net/uebersicht/) as a geektool replacement. 
+
+I no longer use Things, and these scripts haven not been tested with Things 3 or later versions.
+
 # Overall
 
 Welcome to my scripts page. Below you'll find an assortment of scripts I've written to enhance my day to day life. I will try to update the scripts and documentation from time to time.
